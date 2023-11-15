@@ -1,8 +1,17 @@
-<h2 align='center'>Awesome Rspack</h2>
+<p align="center">
+    <img width="300" src="./logo.png" alt="logo of rspack-awesome repository"><br>
+    A curated list of awesome things related to <a href='https://github.com/web-infra-dev/rspack'>Rspack</a> and its ecology
+</p>
 
-<p align='center'>
-A curated list of awesome things related to <a href='https://github.com/web-infra-dev/rspack'>Rspack</a>
 <br><br>
+
+<h1>Awesome Rspack</h1>
+
+- [Resources](#resources)
+  - [Official Resources](#official-resources)
+  - [Starter](#starter)
+- [Get Started](#get-started)
+- [License](#license)
 
 ## Resources
 
@@ -14,9 +23,18 @@ A curated list of awesome things related to <a href='https://github.com/web-infr
 - [Rsbuild Doc](https://rsbuild.dev/)
 - [Modernjs Doc](https://modernjs.dev/)
 
+### Starter
+
+- [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
+
 ## Get Started
+
 - [use Rspack](https://www.rspack.dev/guide/quick-start.html)
 - [use Rsbuild](https://rsbuild.dev/guide/start/quick-start.html)
 
-### Templates
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Web Infra](https://github.com/web-infra-dev) has waived all copyright and related or neighboring rights to this work.
