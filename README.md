@@ -26,6 +26,7 @@
 ### Starter
 
 - [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
+- [rspack for create-react-app](https://github.com/yanhaijing/rspack-cra)
 
 ## Get Started
 
