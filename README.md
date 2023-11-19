@@ -21,7 +21,8 @@
 - [GitHub Repo](https://github.com/web-infra-dev/rspack)
 - [Release Notes](https://github.com/web-infra-dev/rspack/releases)
 - [Rsbuild Doc](https://rsbuild.dev/)
-- [Modernjs Doc](https://modernjs.dev/)
+- [Rspress Doc](https://rspress.dev/)
+- [Modern.js Doc](https://modernjs.dev/)
 
 ### Starter
 
@@ -30,9 +31,20 @@
 
 ## Get Started
 
-- [use Rspack](https://www.rspack.dev/guide/quick-start.html)
+- [use Rspack](https://rspack.dev/guide/quick-start.html)
 - [use Rsbuild](https://rsbuild.dev/guide/start/quick-start.html)
 
+## Plugins
+
+### Rspack Plugins
+
+- [rspack-plugin-dotenv](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-dotenv): A secure rspack plugin that supports dotenv and other environment variables.
+- [rspack-plugin-virtual-module](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-virtual-module): A plugin for rspack that allows you to create virtual modules.
+- [html-rspack-plugin](https://github.com/rspack-contrib/html-rspack-plugin): Generate files to serve your Rspack bundles.
+
+### Rsbuild Plugins
+
+- [rsbuild-plugin-print](https://github.com/hunghg255/rsbuild-plugin-print): Print text, show host with qrcode.
 
 ## License
 
