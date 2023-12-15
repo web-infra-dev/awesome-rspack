@@ -28,6 +28,7 @@
 
 - [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
 - [rspack for create-react-app](https://github.com/yanhaijing/rspack-cra)
+- [electron-forge-rspack-template](https://github.com/noshower/electron-forge-rspack-template)
 
 ## Get Started
 
