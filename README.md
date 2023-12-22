@@ -11,6 +11,10 @@
   - [Official Resources](#official-resources)
   - [Starter](#starter)
 - [Get Started](#get-started)
+- [Plugins](#plugins)
+  - [Rspack Plugins](#rspack-plugins)
+  - [Rsbuild Plugins](#rsbuild-plugins)
+  - [Rspress Plugins](#rspress-plugins)
 - [License](#license)
 
 ## Resources
@@ -34,6 +38,7 @@
 
 - [use Rspack](https://rspack.dev/guide/quick-start.html)
 - [use Rsbuild](https://rsbuild.dev/guide/start/quick-start.html)
+- [use Rspress](https://rspress.dev/guide/start/getting-started.html)
 
 ## Plugins
 
@@ -46,6 +51,10 @@
 ### Rsbuild Plugins
 
 - [rsbuild-plugin-print](https://github.com/hunghg255/rsbuild-plugin-print): Print text, show host with qrcode.
+- 
+### Rspress Plugins
+
+- [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
 
 ## License
 
