@@ -55,8 +55,7 @@
 ### Rspress Plugins
 
 - [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
-- [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): About
-Rspress plugin shiki with transformer.
+- [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
 
 ## License
 
