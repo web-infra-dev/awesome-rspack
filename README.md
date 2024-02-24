@@ -21,12 +21,16 @@
 
 ### Official Resources
 
-- [Documentation](https://rspack.dev/)
-- [GitHub Repo](https://github.com/web-infra-dev/rspack)
-- [Release Notes](https://github.com/web-infra-dev/rspack/releases)
-- [Rsbuild Doc](https://rsbuild.dev/)
-- [Rspress Doc](https://rspress.dev/)
-- [Modern.js Doc](https://modernjs.dev/)
+- [Rspack Doc](https://rspack.dev/)
+- [Rspack GitHub Repo](https://github.com/web-infra-dev/rspack)
+- [Rspack Release Notes](https://github.com/web-infra-dev/rspack/releases)
+
+### Ecosystem
+
+- [Rsbuild Doc](https://rsbuild.dev/): The Rspack-based build tool.
+- [Rspress Doc](https://rspress.dev/): A fast Rspack-based static site generator.
+- [Rsdoctor Doc](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
+- [Modern.js Doc](https://modernjs.dev/): A progressive React framework for web development.
 
 ### Starter
 
@@ -37,8 +41,9 @@
 ## Get Started
 
 - [use Rspack](https://rspack.dev/guide/quick-start.html)
-- [use Rsbuild](https://rsbuild.dev/guide/start/quick-start.html)
+- [use Rsbuild](https://rsbuild.dev/guide/start/quick-start)
 - [use Rspress](https://rspress.dev/guide/start/getting-started.html)
+- [use Rsdoctor](https://rsdoctor.dev/guide/start/quick-start)
 
 ## Plugins
 
