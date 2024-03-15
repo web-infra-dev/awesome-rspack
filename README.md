@@ -58,6 +58,7 @@
 You can also use most of the [unplugin](https://github.com/unplugin) in Rspack or Rsbuild, such as:
 
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components): On-demand components auto importing for Vue.
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import): Auto import APIs on-demand.
 
 ### Rsbuild Plugins
 
