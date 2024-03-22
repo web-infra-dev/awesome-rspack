@@ -34,21 +34,19 @@
 - [Rsdoctor Doc](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
 - [Modern.js Doc](https://modernjs.dev/): A progressive React framework for web development.
 
-### Starter
+## Starter
+
+### Rspack Starter
 
 - [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
 - [rspack for create-react-app](https://github.com/yanhaijing/rspack-cra)
 - [electron-forge-rspack-template](https://github.com/noshower/electron-forge-rspack-template)
+
+### Rsbuild Starter
+
 - [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
 - [rsbuild-chrome-extension-boilerplate-react](https://github.com/filc-dev/rsbuild-chrome-extension-boilerplate-react): Chrome extension boilerplate for Rsbuild.
 - [rsbuild-plugin-template](https://github.com/rspack-contrib/rsbuild-plugin-template): Use this template to create your own Rsbuild plugin.
-
-## Get Started
-
-- [use Rspack](https://rspack.dev/guide/quick-start.html)
-- [use Rsbuild](https://rsbuild.dev/guide/start/quick-start)
-- [use Rspress](https://rspress.dev/guide/start/getting-started.html)
-- [use Rsdoctor](https://rsdoctor.dev/guide/start/quick-start)
 
 ## Plugins
 
