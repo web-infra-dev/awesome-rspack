@@ -27,6 +27,8 @@
 - [Rspack GitHub Repo](https://github.com/web-infra-dev/rspack)
 - [Rspack Release Notes](https://github.com/web-infra-dev/rspack/releases)
 - [Rspack Examples](https://github.com/rspack-contrib/rspack-examples): Examples for Rspack, Rsbuild, Rspress and Rsdoctor.
+- [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): 
+Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
 ### Ecosystem
 
