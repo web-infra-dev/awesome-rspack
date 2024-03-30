@@ -27,8 +27,8 @@
 - [Rspack GitHub Repo](https://github.com/web-infra-dev/rspack)
 - [Rspack Release Notes](https://github.com/web-infra-dev/rspack/releases)
 - [Rspack Examples](https://github.com/rspack-contrib/rspack-examples): Examples for Rspack, Rsbuild, Rspress and Rsdoctor.
-- [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): 
-Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
+- [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources):
+  Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
 ### Ecosystem
 
@@ -48,6 +48,7 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 ### Rsbuild Starter
 
 - [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
+- [shark](https://github.com/h7ml/shark): A React project with Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 - [rsbuild-chrome-extension-boilerplate-react](https://github.com/filc-dev/rsbuild-chrome-extension-boilerplate-react): Chrome extension boilerplate for Rsbuild.
 - [rsbuild-plugin-template](https://github.com/rspack-contrib/rsbuild-plugin-template): Use this template to create your own Rsbuild plugin.
 
