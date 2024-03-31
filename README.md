@@ -27,8 +27,7 @@
 - [Rspack GitHub Repo](https://github.com/web-infra-dev/rspack)
 - [Rspack Release Notes](https://github.com/web-infra-dev/rspack/releases)
 - [Rspack Examples](https://github.com/rspack-contrib/rspack-examples): Examples for Rspack, Rsbuild, Rspress and Rsdoctor.
-- [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): 
-Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
+- [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
 ### Ecosystem
 
@@ -44,6 +43,7 @@ Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 - [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
 - [rspack for create-react-app](https://github.com/yanhaijing/rspack-cra)
 - [electron-forge-rspack-template](https://github.com/noshower/electron-forge-rspack-template)
+- [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 
 ### Rsbuild Starter
 
