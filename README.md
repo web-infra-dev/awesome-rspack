@@ -114,6 +114,7 @@ You can also use most of the [unplugin](https://github.com/unplugin) in Rspack o
 - [@rspress/plugin-preview](https://rspress.dev/plugin/official-plugins/preview): Support preview of code blocks in Markdown/MDX.
 - [@rspress/plugin-playground](https://rspress.dev/plugin/official-plugins/playground): Provide a real-time playground to preview the code blocks in Markdown/MDX files.
 - [@rspress/plugin-shiki](https://rspress.dev/plugin/official-plugins/shiki): Integrates [Shiki](https://github.com/shikijs/shiki) for code syntax highlighting.
+- [@rspress/plugin-rss](https://rspress.dev/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed).
 - [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
 - [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
 - [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
