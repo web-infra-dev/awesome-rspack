@@ -55,6 +55,7 @@
 
 ### Rspack Plugins
 
+- [rspack-manifest-plugin](https://github.com/rspack-contrib/rspack-manifest-plugin): A Rspack plugin for generating an asset manifest.
 - [rspack-plugin-dotenv](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-dotenv): A secure rspack plugin that supports dotenv and other environment variables.
 - [rspack-plugin-virtual-module](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-virtual-module): A plugin for rspack that allows you to create virtual modules.
 - [html-rspack-plugin](https://github.com/rspack-contrib/html-rspack-plugin): Generate files to serve your Rspack bundles.
@@ -64,6 +65,7 @@ You can also use most of the [unplugin](https://github.com/unplugin) in Rspack o
 
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components): On-demand components auto importing for Vue.
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import): Auto import APIs on-demand.
+- [unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Rspack.
 
 ### Rsbuild Plugins
 
@@ -78,6 +80,7 @@ You can also use most of the [unplugin](https://github.com/unplugin) in Rspack o
 - [@rsbuild/plugin-svelte](https://rsbuild.dev/plugins/list/plugin-svelte): Provides support for Svelte components (`.svelte` files).
 - [@rsbuild/plugin-assets-retry](https://rsbuild.dev/plugins/list/plugin-assets-retry): Used to automatically resend requests when static assets fail to load.
 - [@rsbuild/plugin-babel](https://rsbuild.dev/plugins/list/plugin-babel): Provides support for Babel transpilation capabilities.
+- [@rsbuild/plugin-basic-ssl](https://rsbuild.dev/plugins/list/plugin-basic-ssl): Generate an untrusted, self-signed certificate for the HTTPS server.
 - [@rsbuild/plugin-eslint](https://rsbuild.dev/plugins/list/plugin-eslint): Used to run ESLint checks during the compilation.
 - [@rsbuild/plugin-type-check](https://rsbuild.dev/plugins/list/plugin-type-check): Used to run TypeScript type checker on a separate process.
 - [@rsbuild/plugin-image-compress](https://rsbuild.dev/plugins/list/plugin-image-compress): Compress the image resources used in the project.
