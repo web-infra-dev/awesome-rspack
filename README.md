@@ -123,17 +123,18 @@ You can also use most of the [unplugin](https://github.com/unplugin) in Rspack o
 - [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
 - [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
 - [rspress-plugin-font-open-sans](https://github.com/rspack-contrib/rspress-plugin-font-open-sans): Use Open Sans as the default font in your Rspress website.
-- [rspress-plugin-supersub](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-supersub): Superscript and subscript syntax support.
-- [rspress-plugin-katex](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-katex): Render math formulas with KaTeX.
-- [rspress-plugin-mermaid](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-mermaid): Render diagrams with Mermaid.
-- [rspress-plugin-file-tree](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-file-tree): Render file tree as a tree view.
-- [rspress-plugin-directives](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-directives): Custom directives support.
-- [rspress-plugin-live2d](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-live2d): Add live2d model to your site.
-- [rspress-plugin-toc](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-toc): Generate table of contents for your pages.
-- [rspress-plugin-reading-time](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-reading-time): Calculate and display reading time for your pages.
-- [rspress-plugin-google-analytics](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-google-analytics): Integrate Google Analytics in your site.
-- [rspress-plugin-vercel-analytics](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-vercel-analytics): Integrate Vercel Analytics in your site.
-- [rspress-plugin-gh-pages](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-gh-pages): Deploy your site to GitHub Pages without pushing.
+- [rspress-plugin-align-image](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-align-image): Rspress plugin to align images in markdown.
+- [rspress-plugin-directives](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-directives): Rspress plugin for custom directives support.
+- [rspress-plugin-file-tree](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-file-tree): Rspress plugin that add tree view for file structure display.
+- [rspress-plugin-gh-pages](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-gh-pages): Rspress plugin to add support for automatic deployment to GitHub Pages.
+- [rspress-plugin-google-analytics](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-google-analytics): Rspress plugin for Google Analytics integration.
+- [rspress-plugin-vercel-analytics](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-vercel-analytics): Rspress plugin for Vercel Analytics integration.
+- [rspress-plugin-katex](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-katex): Rspress plugin to add support for rendering math equations using [KaTeX](https://katex.org/).
+- [rspress-plugin-live2d](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-live2d): Rspress plugin for live2d, powered by [on-my-live2d](https://oml2d.com/).
+- [rspress-plugin-mermaid](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-mermaid): Rspress plugin to render [Mermaid](https://mermaid.js.org/#/) diagrams in markdown files.
+- [rspress-plugin-reading-time](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-reading-time): Rspress plugin to display reading time for your document pages.
+- [rspress-plugin-supersub](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-supersub): Rspress plugin to add superscript(`<super></super>`) and subscript(`<sub></sub>`) support.
+- [rspress-plugin-toc](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-toc): Rspress plugin that injects a table of contents into the page.
 
 ## License
 
