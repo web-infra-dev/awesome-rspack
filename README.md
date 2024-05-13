@@ -79,6 +79,7 @@ You can also use most of the [unplugin](https://github.com/unplugin) in Rspack o
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components): On-demand components auto importing for Vue.
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import): Auto import APIs on-demand.
 - [unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Rspack.
+- [@arco-plugins/unplugin-react](https://www.npmjs.com/package/@arco-plugins/unplugin-react): A plugin to help you use Arco Design React.
 
 ### Rsbuild Plugins
 
