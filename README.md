@@ -151,6 +151,7 @@ You can also use most of the [unplugin](https://github.com/unplugin) in Rspack o
 - [rspress-plugin-reading-time](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-reading-time): Rspress plugin to display reading time for your document pages.
 - [rspress-plugin-supersub](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-supersub): Rspress plugin to add superscript(`<super></super>`) and subscript(`<sub></sub>`) support.
 - [rspress-plugin-toc](https://github.com/linbudu599/rspress-plugins/tree/main/packages/rspress-plugin-toc): Rspress plugin that injects a table of contents into the page.
+- [rspress-plugin-clarity](https://github.com/jl917/rspress-plugin-clarity): Rspress plugin for [Clarity](https://clarity.microsoft.com/) integration.
 
 ## License
 
