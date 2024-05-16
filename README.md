@@ -31,10 +31,11 @@
 
 ### Ecosystem
 
-- [Rsbuild Doc](https://rsbuild.dev/): The Rspack-based build tool.
-- [Rspress Doc](https://rspress.dev/): A fast Rspack-based static site generator.
-- [Rsdoctor Doc](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
-- [Modern.js Doc](https://modernjs.dev/): A progressive React framework for web development.
+- [Rsbuild](https://rsbuild.dev/): The Rspack-based build tool.
+- [Rspress](https://rspress.dev/): A fast Rspack-based static site generator.
+- [Rsdoctor](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
+- [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
+- [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 
 ## Starter
 
