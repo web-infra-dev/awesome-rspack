@@ -36,6 +36,7 @@
 - [Rsdoctor](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
+- [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
 
 ## Starter
 
