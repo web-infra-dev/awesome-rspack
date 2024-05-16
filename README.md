@@ -64,7 +64,7 @@
 - [@aaroon/workbox-rspack-plugin](https://github.com/Clarkkkk/workbox-rspack-plugin): A plugin to use workbox in Rspack.
 - [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
 
-You can also use most of the webpack plugins in Rspack or Rsbuild, such as:
+Rspack and Rsbuild support most of the webpack plugins, such as:
 
 - [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin): Enforces case sensitive paths of all required modules.
 - [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): Remove your build folder before building.
@@ -77,7 +77,11 @@ You can also use most of the webpack plugins in Rspack or Rsbuild, such as:
 - [@vanilla-extract/webpack-plugin](https://github.com/vanilla-extract-css/vanilla-extract): Integrating vanilla-extract with webpack / Rspack.
 - [@sentry/webpack-plugin](https://github.com/getsentry/sentry-javascript-bundler-plugins): Provides source map and release management support for Sentry.
 
-You can also use most of the [unplugin](https://github.com/unplugin) in Rspack or Rsbuild, such as:
+Rspack and Rsbuild support most of the webpack loaders, such as:
+
+- [react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack): The webpack / Rspack loader for React Compiler.
+
+Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
 
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components): On-demand components auto importing for Vue.
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import): Auto import APIs on-demand.
