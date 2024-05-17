@@ -79,6 +79,25 @@ Rspack and Rsbuild support most of the webpack plugins, such as:
 
 Rspack and Rsbuild support most of the webpack loaders, such as:
 
+- [babel-loader](https://github.com/babel/babel-loader): Transpiling JavaScript files using Babel.
+- [css-loader](https://github.com/webpack-contrib/css-loader): Interprets @import and url() in CSS files and resolve them.
+- [sass-loader](https://github.com/webpack-contrib/sass-loader): Compiles Sass/SCSS files to CSS.
+- [less-loader](https://github.com/webpack-contrib/less-loader): Compiles Less to CSS.
+- [stylus-loader](https://github.com/webpack-contrib/stylus-loader): Compiles Stylus to CSS.
+- [postcss-loader](https://github.com/webpack-contrib/postcss-loader): Loader to process CSS with PostCSS.
+- [style-loader](https://github.com/webpack-contrib/style-loader): Inject CSS into the DOM.
+- [html-loader](https://www.npmjs.com/package/html-loader): Exports HTML as string.
+- [vue-loader](https://github.com/vuejs/vue-loader): Loader for Vue Single-File Components.
+- [svelte-loader](https://github.com/sveltejs/svelte-loader): Loader for svelte components.
+- [imports-loader](https://www.npmjs.com/package/imports-loader): Use modules that depend on specific global variables.
+- [source-map-loader](https://github.com/webpack-contrib/source-map-loader): Extracts source maps from existing source files.
+- [svg-react-loader](https://github.com/jhamlet/svg-react-loader): Turn SVGs into React Components.
+- [svgo-loader](https://github.com/svg/svgo-loader): Loader for SVGO.
+- [coffee-loader](https://www.npmjs.com/package/coffee-loader): Compile CoffeeScript to JavaScript.
+- [node-loader](https://www.npmjs.com/package/node-loader): Allows to connect native node modules with .node extension.
+- [@mdx-js/loader](https://github.com/mdx-js/mdx/tree/main/packages/loader): Loader for MDX.
+- [@svgr/webpack](https://github.com/gregberge/svgr/tree/main/packages/webpack): Loader for SVGR.
+- [yaml-loader](https://github.com/eemeli/yaml-loader): Allows importing YAML files as JS objects.
 - [react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack): The webpack / Rspack loader for React Compiler.
 
 Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
