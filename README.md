@@ -131,6 +131,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-stylus](https://rsbuild.dev/plugins/list/plugin-stylus): Use Stylus as the CSS preprocessor.
 - [@rsbuild/plugin-check-syntax](https://rsbuild.dev/plugins/list/plugin-check-syntax): Used to analyze the syntax compatibility of artifacts, to see if there are any advanced syntaxes that may cause compatibility issues.
 - [@rsbuild/plugin-css-minimizer](https://rsbuild.dev/plugins/list/plugin-css-minimizer): Used to customize CSS minimizer, switch to [cssnano](https://cssnano.co/) or other tools for CSS compression.
+- [@rsbuild/plugin-typed-css-modules](https://rsbuild.dev/plugins/list/plugin-typed-css-modules): Generate TypeScript declaration files for CSS Modules.
 - [@rsbuild/plugin-pug](https://rsbuild.dev/plugins/list/plugin-pug): Provides support for the Pug template engine.
 - [@rsbuild/plugin-rem](https://rsbuild.dev/plugins/list/plugin-rem): Implements the rem adaptive layout for mobile pages.
 - [@rsbuild/plugin-umd](https://rsbuild.dev/plugins/list/plugin-umd): Used to build outputs in UMD format.
