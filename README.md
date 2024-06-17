@@ -182,6 +182,10 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rspress-plugin-sitemap](https://github.com/jl917/rspress-plugin-sitemap): Automatically generate SEO-related sitemaps.
 - [rspress-plugin-mention-github](https://github.com/hunghg255/rspress-plugin-mention-github): Rspress plugin mention github user, or any link.
 
+## Libraries
+
+- [rspack-chain](https://github.com/rspack-contrib/rspack-chain): A chaining API to generate and simplify the modification of Rspack configurations.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
