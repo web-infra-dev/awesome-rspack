@@ -100,6 +100,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [@svgr/webpack](https://github.com/gregberge/svgr/tree/main/packages/webpack): Loader for SVGR.
 - [yaml-loader](https://github.com/eemeli/yaml-loader): Allows importing YAML files as JS objects.
 - [react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack): The webpack / Rspack loader for React Compiler.
+- [worker-rspack-loader](https://github.com/rspack-contrib/worker-rspack-loader): An Rspack loader that registers a script as a Web Worker.
 
 Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
 
