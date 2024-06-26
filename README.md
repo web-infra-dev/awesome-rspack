@@ -17,6 +17,7 @@
   - [Rspack Plugins](#rspack-plugins)
   - [Rsbuild Plugins](#rsbuild-plugins)
   - [Rspress Plugins](#rspress-plugins)
+- [Libraries](#libraries)
 - [License](#license)
 
 ## Resources
