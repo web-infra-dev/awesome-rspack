@@ -17,6 +17,7 @@
   - [Rspack Plugins](#rspack-plugins)
   - [Rsbuild Plugins](#rsbuild-plugins)
   - [Rspress Plugins](#rspress-plugins)
+- [Deployment](#deployment)
 - [Libraries](#libraries)
 - [License](#license)
 
@@ -188,6 +189,9 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rspress-plugin-clarity](https://github.com/jl917/rspress-plugin-clarity): Rspress plugin for [Clarity](https://clarity.microsoft.com/) integration.
 - [rspress-plugin-sitemap](https://github.com/jl917/rspress-plugin-sitemap): Automatically generate SEO-related sitemaps.
 - [rspress-plugin-mention-github](https://github.com/hunghg255/rspress-plugin-mention-github): Rspress plugin mention github user, or any link.
+
+## Deployment 
+- [Zephyr Cloud](https://zephyr-cloud.io): A cloud-agnostic deployment platform offering sub-seconds `deploy from one command` experience. 
 
 ## Libraries
 
