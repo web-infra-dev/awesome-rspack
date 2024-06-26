@@ -48,6 +48,7 @@
 - [electron-forge-rspack-template](https://github.com/noshower/electron-forge-rspack-template)
 - [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 - [electron-react-rspack](https://github.com/RyanProMax/electron-react-rspack): An Electron boilerplate including TypeScript, React, Rspack and ESLint.
+- [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
 
 ### Rsbuild Starter
 
