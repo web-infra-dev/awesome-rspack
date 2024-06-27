@@ -56,6 +56,7 @@
 - [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
 - [rsbuild-chrome-extension-boilerplate-react](https://github.com/filc-dev/rsbuild-chrome-extension-boilerplate-react): Chrome extension boilerplate for Rsbuild.
 - [rsbuild-plugin-template](https://github.com/rspack-contrib/rsbuild-plugin-template): Use this template to create your own Rsbuild plugin.
+- [react-antd-admin-pro](https://github.com/cl1107/react-antd-admin-pro): A admin project template for React. It built with rsbuild, React 18, TypeScript 5, antd 5, and React Router
 
 ## Plugins
 
