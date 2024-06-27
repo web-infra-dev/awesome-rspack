@@ -39,7 +39,7 @@
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 - [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
-- [emp3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
+- [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
 
 ## Starter
 
