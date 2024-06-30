@@ -33,6 +33,8 @@
 
 ### Ecosystem
 
+Upper-level frameworks or libraries that are powered by Rspack or connected to Rspack:
+
 - [Rsbuild](https://rsbuild.dev/): The Rspack-based build tool.
 - [Rspress](https://rspress.dev/): A fast Rspack-based static site generator.
 - [Rsdoctor](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
@@ -40,6 +42,8 @@
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 - [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
 - [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
+- [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
+- [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
 
 ## Starter
 
@@ -50,7 +54,6 @@
 - [electron-forge-rspack-template](https://github.com/noshower/electron-forge-rspack-template)
 - [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 - [electron-react-rspack](https://github.com/RyanProMax/electron-react-rspack): An Electron boilerplate including TypeScript, React, Rspack and ESLint.
-- [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
 
 ### Rsbuild Starter
 
@@ -117,7 +120,6 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@arco-plugins/unplugin-react](https://www.npmjs.com/package/@arco-plugins/unplugin-react): A plugin to help you use Arco Design React.
 - [@tanstack/router-plugin](https://www.npmjs.com/package/@tanstack/router-plugin): Automatically generate configuration for TanStack Router.
 - [unplugin-build-info](https://github.com/renzp94/unplugin-build-info): Print the build information on the console.
-- [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
 
 ### Rsbuild Plugins
 
@@ -194,13 +196,14 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rspress-plugin-sitemap](https://github.com/jl917/rspress-plugin-sitemap): Automatically generate SEO-related sitemaps.
 - [rspress-plugin-mention-github](https://github.com/hunghg255/rspress-plugin-mention-github): Rspress plugin mention github user, or any link.
 
-## Deployment 
-- [Zephyr Cloud](https://zephyr-cloud.io): A cloud-agnostic deployment platform offering sub-seconds `deploy from one command` experience. 
+## Deployment
+
+- [Zephyr Cloud](https://zephyr-cloud.io): A cloud-agnostic deployment platform offering sub-seconds `deploy from one command` experience.
 
 ## Libraries
 
 - [rspack-chain](https://github.com/rspack-contrib/rspack-chain): A chaining API to generate and simplify the modification of Rspack configurations.
-- [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild
+- [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild.
 
 ## License
 
