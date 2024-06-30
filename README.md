@@ -149,8 +149,8 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-pug](https://rsbuild.dev/plugins/list/plugin-pug): Provides support for the Pug template engine.
 - [@rsbuild/plugin-rem](https://rsbuild.dev/plugins/list/plugin-rem): Implements the rem adaptive layout for mobile pages.
 - [@rsbuild/plugin-umd](https://rsbuild.dev/plugins/list/plugin-umd): Used to build outputs in UMD format.
-- [@rsbuild/plugin-yaml](https://rsbuild.dev/plugins/list/plugin-yaml): Used to import YAML files and convert them into JavaScript objects.
-- [@rsbuild/plugin-toml](https://rsbuild.dev/plugins/list/plugin-toml): Used to import TOML files and convert them into JavaScript objects.
+- [@rsbuild/plugin-yaml](https://github.com/rspack-contrib/rsbuild-plugin-yaml): Used to import YAML files and convert them into JavaScript objects.
+- [@rsbuild/plugin-toml](https://github.com/rspack-contrib/rsbuild-plugin-toml): Used to import TOML files and convert them into JavaScript objects.
 - [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
 - [rsbuild-plugin-react-inspector](https://github.com/hunghg255/rsbuild-plugin-react-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
 - [rsbuild-plugin-svelte-inspector](https://github.com/hunghg255/rsbuild-plugin-svelte-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
