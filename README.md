@@ -66,10 +66,11 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rspack Plugins
 
+- [@rspack/plugin-react-refresh](https://www.rspack.dev/guide/tech/react#fast-refresh): Support React Fast Refresh.
+- [@rspack/plugin-preact-refresh](https://www.rspack.dev/guide/tech/preact#preact-refresh): Support Preact Refresh.
 - [rspack-manifest-plugin](https://github.com/rspack-contrib/rspack-manifest-plugin): A Rspack plugin for generating an asset manifest.
 - [rspack-plugin-dotenv](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-dotenv): A secure rspack plugin that supports dotenv and other environment variables.
 - [rspack-plugin-virtual-module](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-virtual-module): A plugin for rspack that allows you to create virtual modules.
-- [rspack-plugin-prefresh](https://www.npmjs.com/package/rspack-plugin-prefresh): Hot Module Reloading for Preact on Rspack.
 - [html-rspack-plugin](https://github.com/rspack-contrib/html-rspack-plugin): Generate files to serve your Rspack bundles.
 - [@aaroon/workbox-rspack-plugin](https://github.com/Clarkkkk/workbox-rspack-plugin): A plugin to use workbox in Rspack.
 - [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
