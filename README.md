@@ -44,6 +44,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
 - [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
 - [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
+- [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 
 ## Starter
 
