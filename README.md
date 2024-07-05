@@ -137,16 +137,16 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-assets-retry](https://rsbuild.dev/plugins/list/plugin-assets-retry): Used to automatically resend requests when static assets fail to load.
 - [@rsbuild/plugin-babel](https://rsbuild.dev/plugins/list/plugin-babel): Provides support for Babel transpilation capabilities.
 - [@rsbuild/plugin-basic-ssl](https://github.com/rspack-contrib/rsbuild-plugin-basic-ssl): Generate an untrusted, self-signed certificate for the HTTPS server.
-- [@rsbuild/plugin-eslint](https://rsbuild.dev/plugins/list/plugin-eslint): Used to run ESLint checks during the compilation.
+- [@rsbuild/plugin-eslint](https://github.com/rspack-contrib/rsbuild-plugin-eslint): Used to run ESLint checks during the compilation.
 - [@rsbuild/plugin-type-check](https://rsbuild.dev/plugins/list/plugin-type-check): Used to run TypeScript type checker on a separate process.
 - [@rsbuild/plugin-image-compress](https://rsbuild.dev/plugins/list/plugin-image-compress): Compress the image resources used in the project.
-- [@rsbuild/plugin-mdx](https://rsbuild.dev/plugins/list/plugin-mdx): Provide support for MDX.
+- [@rsbuild/plugin-mdx](https://github.com/rspack-contrib/rsbuild-plugin-mdx): Provide support for MDX.
 - [@rsbuild/plugin-node-polyfill](https://github.com/rspack-contrib/rsbuild-plugin-node-polyfill): Used to inject polyfills of Node core modules in the browser side.
 - [@rsbuild/plugin-lightningcss](https://rsbuild.dev/plugins/list/plugin-lightningcss): Used to use LightningCSS as CSS transformer and minimizer.
 - [@rsbuild/plugin-source-build](https://rsbuild.dev/plugins/list/plugin-source-build): This plugin is designed for the monorepo scenario. It supports referencing source code from other subdirectories and performs build and hot update.
 - [@rsbuild/plugin-stylus](https://rsbuild.dev/plugins/list/plugin-stylus): Use Stylus as the CSS preprocessor.
 - [@rsbuild/plugin-check-syntax](https://rsbuild.dev/plugins/list/plugin-check-syntax): Used to analyze the syntax compatibility of artifacts, to see if there are any advanced syntaxes that may cause compatibility issues.
-- [@rsbuild/plugin-css-minimizer](https://rsbuild.dev/plugins/list/plugin-css-minimizer): Used to customize CSS minimizer, switch to [cssnano](https://cssnano.co/) or other tools for CSS compression.
+- [@rsbuild/plugin-css-minimizer](https://github.com/rspack-contrib/rsbuild-plugin-css-minimizer): Used to customize CSS minimizer, switch to [cssnano](https://cssnano.co/) or other tools for CSS compression.
 - [@rsbuild/plugin-typed-css-modules](https://rsbuild.dev/plugins/list/plugin-typed-css-modules): Generate TypeScript declaration files for CSS Modules.
 - [@rsbuild/plugin-pug](https://github.com/rspack-contrib/rsbuild-plugin-pug): Provides support for the Pug template engine.
 - [@rsbuild/plugin-rem](https://rsbuild.dev/plugins/list/plugin-rem): Implements the rem adaptive layout for mobile pages.
