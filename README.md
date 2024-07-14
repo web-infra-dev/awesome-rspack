@@ -139,7 +139,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-basic-ssl](https://github.com/rspack-contrib/rsbuild-plugin-basic-ssl): Generate an untrusted, self-signed certificate for the HTTPS server.
 - [@rsbuild/plugin-eslint](https://github.com/rspack-contrib/rsbuild-plugin-eslint): Used to run ESLint checks during the compilation.
 - [@rsbuild/plugin-type-check](https://rsbuild.dev/plugins/list/plugin-type-check): Used to run TypeScript type checker on a separate process.
-- [@rsbuild/plugin-image-compress](https://rsbuild.dev/plugins/list/plugin-image-compress): Compress the image resources used in the project.
+- [@rsbuild/plugin-image-compress](https://github.com/rspack-contrib/rsbuild-plugin-image-compress): Compress the image assets.
 - [@rsbuild/plugin-mdx](https://github.com/rspack-contrib/rsbuild-plugin-mdx): Provide support for MDX.
 - [@rsbuild/plugin-node-polyfill](https://github.com/rspack-contrib/rsbuild-plugin-node-polyfill): Used to inject polyfills of Node core modules in the browser side.
 - [@rsbuild/plugin-lightningcss](https://rsbuild.dev/plugins/list/plugin-lightningcss): Used to use LightningCSS as CSS transformer and minimizer.
