@@ -77,6 +77,8 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@aaroon/workbox-rspack-plugin](https://github.com/Clarkkkk/workbox-rspack-plugin): A plugin to use workbox in Rspack.
 - [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
 - [code-inspector-plugin](https://github.com/zh-lx/code-inspector): Click an element on the page, it can automatically open the editor and position the cursor to the source code of the element.
+- [rspack-plugin-mock](https://github.com/pengzhanbo/rspack-plugin-mock): 
+Rspack and Rsbuild plugin for API mock dev server.
 
 Rspack and Rsbuild support most of the webpack plugins, such as:
 
