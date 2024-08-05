@@ -37,7 +37,8 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 - [Rsbuild](https://rsbuild.dev/): The Rspack-based build tool.
 - [Rspress](https://rspress.dev/): A fast Rspack-based static site generator.
-- [Rsdoctor](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and Webpack.
+- [Rsdoctor](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and webpack.
+- [Rslib](https://github.com/web-infra-dev/rslib): The library build tool powered by Rsbuild.
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 - [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
@@ -212,7 +213,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 - [rspack-chain](https://github.com/rspack-contrib/rspack-chain): A chaining API to generate and simplify the modification of Rspack configurations.
 - [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild.
-- [rspackify](https://github.com/SyMind/rspackify): Experience lightning-fast builds by instantly switching from Webpack to Rspack.
+- [rspackify](https://github.com/SyMind/rspackify): Experience lightning-fast builds by instantly switching from webpack to Rspack.
 
 ## License
 
