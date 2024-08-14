@@ -81,8 +81,8 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@aaroon/workbox-rspack-plugin](https://github.com/Clarkkkk/workbox-rspack-plugin): A plugin to use workbox in Rspack.
 - [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
 - [code-inspector-plugin](https://github.com/zh-lx/code-inspector): Click an element on the page, it can automatically open the editor and position the cursor to the source code of the element.
-- [rspack-plugin-mock](https://github.com/pengzhanbo/rspack-plugin-mock): 
-Rspack and Rsbuild plugin for API mock dev server.
+- [rspack-plugin-mock](https://github.com/pengzhanbo/rspack-plugin-mock): Rspack and Rsbuild plugin for API mock dev server.
+- [react-cosmos-plugin-rspack](https://github.com/birchill/react-cosmos-plugin-rspack/): Allows building / running React Cosmos using Rspack.
 
 Rspack and Rsbuild support most of the webpack plugins, such as:
 
@@ -227,6 +227,7 @@ Blogs from the Rspack team:
 - [web-infra-dev/discussions](https://github.com/orgs/web-infra-dev/discussions)
 
 Blogs from the community:
+
 - [2024-08] [Lessons learned switching to Rspack](https://birtles.blog/2024/08/14/lessons-learned-switching-to-rspack/)
 - [2024-08] [Why Moving to Rspack and How to Use It with Bazel](https://medium.com/@yanirmanor/why-moving-to-rspack-and-how-to-use-it-with-bazel-9f66139fe493)
 - [2024-06] [Micro Frontend Setup with Nx, Rspack, Module Federation 2.0 and React](https://medium.com/@soumyanildas/micro-frontend-setup-with-nx-rspack-module-federation-2-0-and-react-698674edb09f)
