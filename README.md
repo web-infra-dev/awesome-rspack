@@ -75,7 +75,6 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@rspack/plugin-react-refresh](https://github.com/rspack-contrib/rspack-plugin-react-refresh): Support React Fast Refresh.
 - [@rspack/plugin-preact-refresh](https://github.com/rspack-contrib/rspack-plugin-preact-refresh): Support Preact Refresh.
 - [rspack-manifest-plugin](https://github.com/rspack-contrib/rspack-manifest-plugin): A Rspack plugin for generating an asset manifest.
-- [rspack-plugin-dotenv](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-dotenv): A secure rspack plugin that supports dotenv and other environment variables.
 - [rspack-plugin-virtual-module](https://github.com/rspack-contrib/rspack-plugins/tree/main/packages/plugin-virtual-module): A plugin for rspack that allows you to create virtual modules.
 - [html-rspack-plugin](https://github.com/rspack-contrib/html-rspack-plugin): Generate files to serve your Rspack bundles.
 - [@aaroon/workbox-rspack-plugin](https://github.com/Clarkkkk/workbox-rspack-plugin): A plugin to use workbox in Rspack.
@@ -90,6 +89,7 @@ Rspack and Rsbuild support most of the webpack plugins, such as:
 - [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): Remove your build folder before building.
 - [compression-webpack-plugin](https://github.com/webpack-contrib/compression-webpack-plugin): Prepare compressed versions of assets to serve them with Content-Encoding.
 - [css-minimizer-webpack-plugin](https://github.com/webpack-contrib/css-minimizer-webpack-plugin): Uses cssnano to optimize and minify your CSS.
+- [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack): A secure plugin that supports dotenv and other environment variables.
 - [eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin): Uses eslint to find and fix problems in your JavaScript code.
 - [fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin): Runs TypeScript type checker on a separate process.
 - [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin): Simplifies creation of HTML files to serve your bundles.
