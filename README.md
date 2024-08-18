@@ -141,7 +141,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-vue](https://rsbuild.dev/plugins/list/plugin-vue): Provides support for Vue 3 SFC (Single File Components).
 - [@rsbuild/plugin-vue-jsx](https://rsbuild.dev/plugins/list/plugin-vue-jsx): Provides support for Vue 3 JSX / TSX syntax.
 - [@rsbuild/plugin-vue2](https://rsbuild.dev/plugins/list/plugin-vue2): Provides support for Vue 2 SFC (Single File Components).
-- [@rsbuild/plugin-vue2-jsx](https://rsbuild.dev/plugins/list/plugin-vue2-jsx): Provides support for Vue 2 JSX / TSX syntax.
+- [@rsbuild/plugin-vue2-jsx](https://github.com/rspack-contrib/rsbuild-plugin-vue2-jsx): Provides support for Vue 2 JSX / TSX syntax.
 - [@rsbuild/plugin-preact](https://rsbuild.dev/plugins/list/plugin-preact): Provides support for Preact.
 - [@rsbuild/plugin-svelte](https://rsbuild.dev/plugins/list/plugin-svelte): Provides support for Svelte components (`.svelte` files).
 - [@rsbuild/plugin-assets-retry](https://rsbuild.dev/plugins/list/plugin-assets-retry): Used to automatically resend requests when static assets fail to load.
@@ -158,7 +158,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-css-minimizer](https://github.com/rspack-contrib/rsbuild-plugin-css-minimizer): Used to customize CSS minimizer, switch to [cssnano](https://cssnano.co/) or other tools for CSS compression.
 - [@rsbuild/plugin-typed-css-modules](https://github.com/rspack-contrib/rsbuild-plugin-typed-css-modules): Generate TypeScript declaration files for CSS Modules.
 - [@rsbuild/plugin-pug](https://github.com/rspack-contrib/rsbuild-plugin-pug): Provides support for the Pug template engine.
-- [@rsbuild/plugin-rem](https://rsbuild.dev/plugins/list/plugin-rem): Implements the rem adaptive layout for mobile pages.
+- [@rsbuild/plugin-rem](https://github.com/rspack-contrib/rsbuild-plugin-rem): Implements the rem adaptive layout for mobile pages.
 - [@rsbuild/plugin-umd](https://github.com/rspack-contrib/rsbuild-plugin-umd): Used to build outputs in UMD format.
 - [@rsbuild/plugin-yaml](https://github.com/rspack-contrib/rsbuild-plugin-yaml): Used to import YAML files and convert them into JavaScript objects.
 - [@rsbuild/plugin-toml](https://github.com/rspack-contrib/rsbuild-plugin-toml): Used to import TOML files and convert them into JavaScript objects.
