@@ -82,6 +82,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [code-inspector-plugin](https://github.com/zh-lx/code-inspector): Click an element on the page, it can automatically open the editor and position the cursor to the source code of the element.
 - [rspack-plugin-mock](https://github.com/pengzhanbo/rspack-plugin-mock): Rspack and Rsbuild plugin for API mock dev server.
 - [react-cosmos-plugin-rspack](https://github.com/birchill/react-cosmos-plugin-rspack/): Allows building / running React Cosmos using Rspack.
+- [rspack-plugin-cli-copy](https://github.com/rspack-contrib/rspack-plugin-cli-copy): Start the project and automatically copy the network URL of the terminal.
 
 Rspack and Rsbuild support most of the webpack plugins, such as:
 
