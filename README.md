@@ -130,6 +130,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@arco-plugins/unplugin-react](https://www.npmjs.com/package/@arco-plugins/unplugin-react): A plugin to help you use Arco Design React.
 - [@tanstack/router-plugin](https://www.npmjs.com/package/@tanstack/router-plugin): Automatically generate configuration for TanStack Router.
 - [unplugin-build-info](https://github.com/renzp94/unplugin-build-info): Print the build information on the console.
+- [unplugin-vue-macros](https://github.com/vue-macros/vue-macros): Explore more macros and syntax sugar to Vue.
 
 ### Rsbuild Plugins
 
