@@ -137,7 +137,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 - [@rsbuild/plugin-react](https://rsbuild.dev/plugins/list/plugin-react): Provides support for React.
 - [@rsbuild/plugin-svgr](https://rsbuild.dev/plugins/list/plugin-svgr): Support convert SVG to React components.
-- [@rsbuild/plugin-styled-components](https://rsbuild.dev/plugins/list/plugin-styled-components): Provides compile-time support for styled-components.
+- [@rsbuild/plugin-styled-components](https://github.com/rspack-contrib/rsbuild-plugin-styled-components): Provides compile-time support for styled-components.
 - [@rsbuild/plugin-vue](https://rsbuild.dev/plugins/list/plugin-vue): Provides support for Vue 3 SFC (Single File Components).
 - [@rsbuild/plugin-vue-jsx](https://rsbuild.dev/plugins/list/plugin-vue-jsx): Provides support for Vue 3 JSX / TSX syntax.
 - [@rsbuild/plugin-vue2](https://rsbuild.dev/plugins/list/plugin-vue2): Provides support for Vue 2 SFC (Single File Components).
@@ -164,6 +164,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-toml](https://github.com/rspack-contrib/rsbuild-plugin-toml): Used to import TOML files and convert them into JavaScript objects.
 - [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
 - [rsbuild-plugin-dts](https://github.com/web-infra-dev/rslib/tree/main/packages/plugin-dts): Generate TypeScript declaration files.
+- [rsbuild-plugin-ejs](https://github.com/rspack-contrib/rsbuild-plugin-ejs): Provide support for the EJS template engine.
 - [rsbuild-plugin-react-inspector](https://github.com/hunghg255/rsbuild-plugin-react-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
 - [rsbuild-plugin-svelte-inspector](https://github.com/hunghg255/rsbuild-plugin-svelte-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
 - [rsbuild-plugin-vue-inspector](https://github.com/hunghg255/rsbuild-plugin-vue-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
