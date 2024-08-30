@@ -132,7 +132,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@tanstack/router-plugin](https://www.npmjs.com/package/@tanstack/router-plugin): Automatically generate configuration for TanStack Router.
 - [unplugin-build-info](https://github.com/renzp94/unplugin-build-info): Print the build information on the console.
 - [unplugin-vue-macros](https://github.com/vue-macros/vue-macros): Explore more macros and syntax sugar to Vue.
-- [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload): Inject <link rel="preload"> to your index.html based on your build assets.Need to be used with HTMLWebpackPlugin or HTMLRspackPlugin.
+- [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload): Inject `<link rel="preload">` to your index.html based on your build assets. Need to be used with HTMLWebpackPlugin or HTMLRspackPlugin.
 
 ### Rsbuild Plugins
 
