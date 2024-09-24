@@ -224,6 +224,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 ## Libraries
 
+- [@rspack/dev-server](https://github.com/web-infra-dev/rspack-dev-server): Dev server for Rspack, provides the same API as webpack-dev-server.
 - [@rspack/lite-tapable](https://github.com/rspack-contrib/rspack-lite-tapable): Lite weight tapable for Rspack.
 - [rspack-chain](https://github.com/rspack-contrib/rspack-chain): A chaining API to generate and simplify the modification of Rspack configurations.
 - [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild.
