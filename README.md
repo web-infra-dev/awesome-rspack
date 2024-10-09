@@ -204,6 +204,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [plugin-sails-content](https://github.com/sailscastshq/sails-content/packages/plugin-sails-content): Rsbuild plugin for [Sails Content](https://docs.sailscasts.com/content/).
 - [rsbuild-plugin-html-minifier-terser](https://github.com/rspack-contrib/rsbuild-plugin-html-minifier-terser): An Rsbuild plugin to use `html-minifier-terser` to minify the HTML outputs.
 - [rsbuild-plugin-glsl](https://github.com/sakitam-fdd/rsbuild-plugin-glsl): An Rsbuild plugin to import inline (and compress) GLSL shader.
+- [rsbuild-plugin-marko](https://github.com/ipseonet/rsbuild-plugin-marko): An Rsbuild plugin to provide support for the Marko template engine.
 
 ### Rspress Plugins
 
