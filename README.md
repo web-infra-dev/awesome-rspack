@@ -71,6 +71,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [rsbuild-react-chakra-starter](https://github.com/sozonome/rsbuild-react-chakra-starter): initialize react app with rsbuild, Chakra UI and TypeScript setup. Configured with awesome toolings: Biome, Husky + Lint-Staged, Commitlint, and Turbo.
 - [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind): Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
 - [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation): Rsbuild + Turborepo + Biome + Zustand + React for module federation.
+
 ## Plugins
 
 ### Rspack Plugins
