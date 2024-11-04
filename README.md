@@ -43,6 +43,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 - [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
+- [Docusaurus](https://docusaurus.io/blog/releases/3.6#docusaurus-faster): Help you ship a beautiful documentation site in no time.
 - [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
 - [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
 - [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
