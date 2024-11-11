@@ -212,6 +212,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rsbuild-plugin-glsl](https://github.com/sakitam-fdd/rsbuild-plugin-glsl): An Rsbuild plugin to import inline (and compress) GLSL shader.
 - [rsbuild-plugin-marko](https://github.com/ipseonet/rsbuild-plugin-marko): An Rsbuild plugin to provide support for the Marko template engine.
 - [rsbuild-plugin-monaco-editor-nls](https://github.com/zackshen/rsbuild-plugin-monaco-editor-nls): An Rsbuild plugin to localize monaco-editor.
+- [rsbuild-plugin-auto-alias](https://github.com/jwyGithub/rsbuild-plugin-auto-alias): Automatically generate alias based on path. 
 
 ### Rspress Plugins
 
