@@ -178,12 +178,6 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 - [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
 
-#### For Electron
-
-- [@electron-rsbuild/plugin-main](https://electron-rsbuild.org/plugins/list/plugin-main): Provides support for Electron main process.
-- [@electron-rsbuild/plugin-preload](https://electron-rsbuild.org/plugins/list/plugin-preload): Provides support Electron preload process.
-- [@electron-rsbuild/plugin-renderer](https://electron-rsbuild.org/plugins/list/plugin-renderer): Provides support Electron renderer process.
-
 #### Common
 
 - [@rsbuild/plugin-assets-retry](https://rsbuild.dev/plugins/list/plugin-assets-retry): Used to automatically resend requests when static assets fail to load.
