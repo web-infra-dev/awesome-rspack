@@ -50,6 +50,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
 - [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 - [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
+- [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
 
 ## Starter
 
@@ -74,6 +75,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [rsbuild-react-chakra-starter](https://github.com/sozonome/rsbuild-react-chakra-starter): initialize react app with rsbuild, Chakra UI and TypeScript setup. Configured with awesome toolings: Biome, Husky + Lint-Staged, Commitlint, and Turbo.
 - [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind): Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
 - [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation): Rsbuild + Turborepo + Biome + Zustand + React for module federation.
+- [@electron-rsbuild/core](https://github.com/electron-rsbuild/electron-rsbuild): Explore the next generation electron build tooling based on Rsbuild.
 
 ## Plugins
 
@@ -176,6 +178,12 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 #### For Solid
 
 - [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
+
+#### For Electron
+
+- [@electron-rsbuild/plugin-main](https://electron-rsbuild.org/plugins/list/plugin-main): Provides support for Electron main process.
+- [@electron-rsbuild/plugin-preload](https://electron-rsbuild.org/plugins/list/plugin-preload): Provides support Electron preload process.
+- [@electron-rsbuild/plugin-renderer](https://electron-rsbuild.org/plugins/list/plugin-renderer): Provides support Electron renderer process.
 
 #### Common
 
