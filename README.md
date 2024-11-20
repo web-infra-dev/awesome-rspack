@@ -215,6 +215,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rsbuild-plugin-monaco-editor-nls](https://github.com/zackshen/rsbuild-plugin-monaco-editor-nls): An Rsbuild plugin to localize monaco-editor.
 - [rsbuild-plugin-auto-alias](https://github.com/jwyGithub/rsbuild-plugin-auto-alias): Automatically generate alias based on path. 
 - [rsbuild-plugin-tailwindcss](https://github.com/rspack-contrib/rsbuild-plugin-tailwindcss): An Rsbuild plugin to integrate with Tailwind CSS.
+- [@module-federation/rsbuild-plugin](https://module-federation.io/guide/basic/rsbuild): An Rsbuild plugin for integrating Module Federation v2.
 
 ### Rspress Plugins
 
