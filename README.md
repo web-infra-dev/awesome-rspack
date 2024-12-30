@@ -180,6 +180,10 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 - [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
 
+#### For Angular
+
+- [@ng-rsbuild/plugin-angular](https://github.com/Coly010/ng-rspack-build): Support compiling Angular applications with Rsbuild.
+
 #### Common
 
 - [@rsbuild/plugin-assets-retry](https://rsbuild.dev/plugins/list/plugin-assets-retry): Used to automatically resend requests when static assets fail to load.
