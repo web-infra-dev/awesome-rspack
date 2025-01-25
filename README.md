@@ -279,6 +279,7 @@ Blogs from the Rspack team:
 
 Blogs from the community:
 
+- [2025-01] [State of Rspack in Angular](https://edbzn.dev/state-of-rspack-in-angular/)
 - [2025-01] [Nx and Angular with Rspack and Module Federation](https://www.angulararchitects.io/en/blog/nx-with-rspack-and-module-federation/)
 - [2024-09] [A bundler story: migrating from Webpack to Rspack](https://medium.com/alan/a-bundler-story-migrating-from-webpack-to-rspack-f548c62f757d)
 - [2024-08] [Lessons learned switching to Rspack](https://birtles.blog/2024/08/14/lessons-learned-switching-to-rspack/)
