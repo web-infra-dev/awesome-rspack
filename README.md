@@ -213,7 +213,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rsbuild-plugin-generate-file](https://github.com/sumy7/rsbuild-plugin-generate-file): Generate static file and write them to dist folder after packaging.
 - [rsbuild-plugin-google-analytics](https://github.com/rspack-contrib/rsbuild-plugin-google-analytics): Setup Google Analytics in your website.
 - [rsbuild-plugin-web-extension](https://github.com/filc-dev/rsbuild-plugin-web-extension): Rsbuild plugin for Chrome/web extension.
-- [rsbuild-plugin-web-ext](https://github.com/filc-dev/rsbuild-plugin-web-ext): A Rsbuild plugin for developing and building browser extensions.
+- [rsbuild-plugin-web-ext](https://github.com/xbzhang2020/rsbuild-plugin-web-ext/tree/main/packages/rsbuild): A Rsbuild plugin for developing and building browser extensions.
 - [rsbuild-plugin-open-graph](https://github.com/rspack-contrib/rsbuild-plugin-open-graph): Generate Open Graph meta tags.
 - [rsbuild-plugin-posthog](https://github.com/m1911star/rsbuild-plugin-posthog): Rsbuild plugin for PostHog.
 - [@webx-kit/rsbuild-plugin](https://github.com/tmkx/webx-kit): Rsbuild plugin for Web eXtension development.
