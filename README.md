@@ -156,6 +156,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 #### For React
 
 - [@rsbuild/plugin-react](https://rsbuild.dev/plugins/list/plugin-react): Provides support for React.
+- [rsbuild-plugin-react-router](https://github.com/rspack-contrib/rsbuild-plugin-react-router): Provides seamless integration with React Router.
 - [@rsbuild/plugin-svgr](https://rsbuild.dev/plugins/list/plugin-svgr): Support convert SVG to React components.
 - [@rsbuild/plugin-styled-components](https://github.com/rspack-contrib/rsbuild-plugin-styled-components): Provides compile-time support for styled-components.
 - [rsbuild-plugin-react-inspector](https://github.com/hunghg255/rsbuild-plugin-react-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
