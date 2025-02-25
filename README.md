@@ -53,7 +53,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 - [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
 - [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
-- [Gez](https://github.com/dp-os/gez): Gez is a modern JavaScript framework featuring Module Link technology, enabling efficient server-side rendering and seamless dependency sharing across micro-frontend applications.
+- [Gez](https://github.com/dp-os/gez): a modern JavaScript framework featuring Module Link technology, enabling efficient server-side rendering and seamless dependency sharing across micro-frontend applications.
 
 ## Starter
 
