@@ -40,6 +40,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Rspress](https://rspress.dev/): A fast Rspack-based static site generator.
 - [Rsdoctor](https://rsdoctor.dev/): A one-stop build analyzer for Rspack and webpack.
 - [Rslib](https://github.com/web-infra-dev/rslib): The library build tool powered by Rsbuild.
+- [Rspeedy](https://lynxjs.org/rspeedy/): The Rspack-based build tool designed specifically for [Lynx](https://lynxjs.org/) applications.
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 - [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
