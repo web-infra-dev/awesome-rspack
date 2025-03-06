@@ -55,6 +55,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
 - [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
 - [Gez](https://github.com/dp-os/gez): A modern JavaScript framework featuring Module Link technology, enabling efficient server-side rendering and seamless dependency sharing across micro-frontend applications.
+- [Angular Rspack](https://github.com/nrwl/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
 
 ## Starter
 
@@ -185,10 +186,6 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 #### For Solid
 
 - [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
-
-#### For Angular
-
-- [@ng-rsbuild/plugin-angular](https://github.com/Coly010/ng-rspack-build): Support compiling Angular applications with Rsbuild.
 
 #### Common
 
