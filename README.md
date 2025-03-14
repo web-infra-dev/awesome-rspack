@@ -82,6 +82,10 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind): Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
 - [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation): Rsbuild + Turborepo + Biome + Zustand + React for module federation.
 
+### Rslib Starter
+
+- [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
+
 ## Plugins
 
 ### Rspack Plugins
