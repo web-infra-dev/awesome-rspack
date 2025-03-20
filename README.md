@@ -293,6 +293,7 @@ Blogs from the Rspack team:
 
 Blogs from the community:
 
+- [2025-03] [Using Rspack with Angular](https://nx.dev/blog/using-rspack-with-angular)
 - [2025-02] [Rspack: An Engineer’s Approach to Build System Innovation](https://medium.com/ekino-france/rspack-an-engineers-approach-to-build-system-innovation-924e57c596a0)
 - [2025-01] [State of Rspack in Angular](https://edbzn.dev/state-of-rspack-in-angular/)
 - [2025-01] [Nx and Angular with Rspack and Module Federation](https://www.angulararchitects.io/en/blog/nx-with-rspack-and-module-federation/)
