@@ -84,7 +84,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 ### Rslib Starter
 
 - [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
-- [web-component-starter](https://github.com/holyfata/web-component-starter/settings): A starter for developint Web components with Rslib, featuring using stencil and useful both in React and Vue.
+- [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developint Web components with Rslib, featuring using stencil and useful both in React and Vue.
 
 ## Plugins
 
