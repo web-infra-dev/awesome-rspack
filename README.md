@@ -302,6 +302,7 @@ Blogs from the Rspack team:
 
 Blogs from the community:
 
+- [2025-04] [Scaffolding New Apps With Angular Rspack](https://nx.dev/blog/scaffold-angular-rspack-applications):
 - [2025-03] [Using Rspack with Angular](https://nx.dev/blog/using-rspack-with-angular)
 - [2025-02] [Rspack: An Engineer’s Approach to Build System Innovation](https://medium.com/ekino-france/rspack-an-engineers-approach-to-build-system-innovation-924e57c596a0)
 - [2025-01] [State of Rspack in Angular](https://edbzn.dev/state-of-rspack-in-angular/)
@@ -331,6 +332,10 @@ Blogs from the community:
 - [2024-08] [开发体验的彻底提升，从 Vite 迁移到 Rspack](https://moonvy.com/blog/post/2024/migrate-vite-to-rsbuild/)
 - [2024-08] [译：前 Firefox 工程师迁移到 Rspack 的经验教训](https://juejin.cn/post/7402554147276980224)
 - [2024-07] [基于 Rspack 实现大仓应用构建提效实践](https://juejin.cn/post/7389925302020014118)
+
+日本語ブログ:
+
+- [2025-04] [Rspack に移行したらフロントエンドのビルドがめっちゃ速くなりました](https://buildersbox.corp-sansan.com/entry/2025/04/14/110000)
 
 ## Videos
 
