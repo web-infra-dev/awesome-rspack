@@ -296,12 +296,16 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 ## Blogs
 
+### Rspack Team
+
 Blogs from the Rspack team:
 
-- [rspack.dev/blog/](https://rspack.dev/blog/)
-- [web-infra-dev/discussions](https://github.com/orgs/web-infra-dev/discussions)
+- [rspack.dev/blogs](https://rspack.dev/blog/)
+- [web-infra-dev/blogs](https://github.com/web-infra-dev/blogs)
 
-Blogs from the community:
+### Community
+
+English blogs:
 
 - [2025-04] [An Introduction to JavaScript Bundler Rspack](https://blog.appsignal.com/2025/04/16/an-introduction-to-javascript-bundler-rspack.html)
 - [2025-04] [Scaffolding New Apps With Angular Rspack](https://nx.dev/blog/scaffold-angular-rspack-applications):
@@ -327,17 +331,22 @@ Blogs from the community:
 - [2023-04] [What is Rspack? And how does it compare to Webpack in under 5 minutes?](https://www.hamzak.xyz/blog-posts/what-is-rspack-and-how-does-it-compare-to-webpack)
 - [2023-03] [Rspack — Getting up to speed with Nx](https://blog.nrwl.io/rspack-getting-up-to-speed-with-nx-4c34540bccf2)
 
-社区的中文博客：
+Chinese blogs (中文):
 
+- [2025-04] [从 Vite 到 Rsbuild：一次意想不到的构建性能飞跃](https://juejin.cn/post/7496345478658637865)
 - [2024-10] [我把大型团队项目从 Vite 前端迁移到了 Rsbuild，收益如何？](https://juejin.cn/post/7425804396292325414)
 - [2024-09] [[译] 一个关于打包工具的故事：从 webpack 迁移到 Rspack](https://juejin.cn/post/7425598941859676170)
 - [2024-08] [开发体验的彻底提升，从 Vite 迁移到 Rspack](https://moonvy.com/blog/post/2024/migrate-vite-to-rsbuild/)
 - [2024-08] [译：前 Firefox 工程师迁移到 Rspack 的经验教训](https://juejin.cn/post/7402554147276980224)
 - [2024-07] [基于 Rspack 实现大仓应用构建提效实践](https://juejin.cn/post/7389925302020014118)
 
-日本語ブログ:
+Japanese blogs (日本語):
 
 - [2025-04] [Rspack に移行したらフロントエンドのビルドがめっちゃ速くなりました](https://buildersbox.corp-sansan.com/entry/2025/04/14/110000)
+
+French blogs (Français):
+
+- [2025-04] [Mon voyage depuis Webpack vers Vite et finalement Rsbuild](https://www.ginkonote.com/fr/utilisateurs/flo/articles/mon-voyage-depuis-webpack-vers-vite-et-finalement-rsbuild@javascript)
 
 ## Videos
 
