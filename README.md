@@ -307,6 +307,7 @@ Blogs from the Rspack team:
 
 English blogs:
 
+- [2025-04] [My journey from Webpack to Vite and finally Rsbuild](https://www.ginkonote.com/users/flo/articles/my-journey-from-webpack-to-vite-and-finally-rsbuild@javascript)
 - [2025-04] [An Introduction to JavaScript Bundler Rspack](https://blog.appsignal.com/2025/04/16/an-introduction-to-javascript-bundler-rspack.html)
 - [2025-04] [Scaffolding New Apps With Angular Rspack](https://nx.dev/blog/scaffold-angular-rspack-applications):
 - [2025-03] [Using Rspack with Angular](https://nx.dev/blog/using-rspack-with-angular)
