@@ -150,6 +150,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [yaml-loader](https://github.com/eemeli/yaml-loader): Allows importing YAML files as JS objects.
 - [react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack): The webpack / Rspack loader for React Compiler.
 - [worker-rspack-loader](https://github.com/rspack-contrib/worker-rspack-loader): An Rspack loader that registers a script as a Web Worker.
+- [rsbuild-plugin-markdown-loader](https://github.com/aliezzahn/rsbuild-plugin-markdown-loader): Importing and rendering Markdown files as React components or pure HTML.
 
 Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
 
