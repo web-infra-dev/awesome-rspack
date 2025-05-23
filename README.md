@@ -285,6 +285,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rspress-plugin-mention-github](https://github.com/hunghg255/rspress-plugin-mention-github): Rspress plugin mention github user, or any link.
 - [rspress-plugin-changelog](https://github.com/baranwang/rspress-plugin-changelog): Generates changelog pages, fetching release information from GitHub and GitLab repositories.
 - [rspress-plugin-annotation-words](https://github.com/2heal1/rspress-plugin-annotation-words): An Rspress plugin to support annotation words.
+- [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree): Use Figtree as the default font in your Rspress website.
 
 ## Deployment
 
