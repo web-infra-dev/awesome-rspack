@@ -69,6 +69,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 - [electron-react-rspack](https://github.com/RyanProMax/electron-react-rspack): An Electron boilerplate including TypeScript, React, Rspack and ESLint.
 - [ng-rspack](https://github.com/edbzn/ng-rspack): Angular + Rspack + Nx + Module Federation 2.0.
+- [r2h](https://github.com/bdxygy/r2h): A blazing-fast SSR starter powered by React 19, Rspack, and Hono.
 
 ### Rsbuild Starter
 
