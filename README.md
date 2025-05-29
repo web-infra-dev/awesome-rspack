@@ -24,28 +24,33 @@
 
 ### Official Resources
 
-- [Rspack Doc](https://rspack.dev/)
+- [Rspack Doc](https://rspack.rs/)
 - [Rspack GitHub Repo](https://github.com/web-infra-dev/rspack)
 - [Rspack Release Notes](https://github.com/web-infra-dev/rspack/releases)
 - [Rspack Examples](https://github.com/rspack-contrib/rspack-examples): Examples for Rspack, Rsbuild, Rspress and Rsdoctor.
 - [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
 
-### Ecosystem
+### Rstack
 
-Upper-level frameworks or libraries that are powered by Rspack or connected to Rspack:
+Rstack is a unified JavaScript toolchain built around Rspack, with high performance and consistent architecture.
 
 - [Rsbuild](https://github.com/web-infra-dev/rsbuild): The Rspack-based build tool.
 - [Rspress](https://github.com/web-infra-dev/rspress): A fast Rsbuild-based static site generator.
 - [Rsdoctor](https://github.com/web-infra-dev/rsdoctor): A one-stop build analyzer for Rspack.
 - [Rslib](https://github.com/web-infra-dev/rslib): The library build tool powered by Rsbuild.
 - [Rstest](https://github.com/web-infra-dev/rstest): The testing framework powered by Rspack.
+
+### Ecosystem
+
+Upper-level frameworks or libraries that are powered by Rspack or connected to Rspack:
+
 - [Rspeedy](https://lynxjs.org/rspeedy/): The Rspack-based build tool designed specifically for [Lynx](https://lynxjs.org/) applications.
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
 - [storybook-rsbuild](https://github.com/rspack-contrib/storybook-rsbuild): Storybook builder powered by Rsbuild.
 - [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
 - [@nx/rsbuild](https://nx.dev/nx-api/rsbuild): The Nx plugin for Rsbuild.
 - [Docusaurus](https://docusaurus.io/blog/releases/3.6#docusaurus-faster): Help you ship a beautiful documentation site in no time.
-- [next-rspack](https://rspack.dev/guide/tech/next): Use Rspack as the bundler for Next.js.
+- [next-rspack](https://rspack.rs/guide/tech/next): Use Rspack as the bundler for Next.js.
 - [Nuxt](https://nuxt.com/): An intuitive Vue framework for creating web applications and websites with Vue.js. Install [@nuxt/rspack-builder](https://www.npmjs.com/package/@nuxt/rspack-builder) to use Rspack as the bundler for Nuxt.
 - [Re.Pack](https://github.com/callstack/repack): A toolkit to build your React Native application with Rspack.
 - [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
@@ -171,16 +176,16 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 #### For React
 
-- [@rsbuild/plugin-react](https://rsbuild.dev/plugins/list/plugin-react): Provides support for React.
+- [@rsbuild/plugin-react](https://rsbuild.rs/plugins/list/plugin-react): Provides support for React.
 - [rsbuild-plugin-react-router](https://github.com/rspack-contrib/rsbuild-plugin-react-router): Provides seamless integration with React Router.
-- [@rsbuild/plugin-svgr](https://rsbuild.dev/plugins/list/plugin-svgr): Support convert SVG to React components.
+- [@rsbuild/plugin-svgr](https://rsbuild.rs/plugins/list/plugin-svgr): Support convert SVG to React components.
 - [@rsbuild/plugin-styled-components](https://github.com/rspack-contrib/rsbuild-plugin-styled-components): Provides compile-time support for styled-components.
 - [rsbuild-plugin-react-inspector](https://github.com/hunghg255/rsbuild-plugin-react-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
 - [rsbuild-react-generate-pages](https://github.com/hunghg255/rsbuild-react-generate-pages): Generate pages for React app based on the directory structure and `react-router-dom` configuration.
 
 #### For Vue
 
-- [@rsbuild/plugin-vue](https://rsbuild.dev/plugins/list/plugin-vue): Provides support for Vue 3 SFC (Single File Components).
+- [@rsbuild/plugin-vue](https://rsbuild.rs/plugins/list/plugin-vue): Provides support for Vue 3 SFC (Single File Components).
 - [@rsbuild/plugin-vue-jsx](https://github.com/rspack-contrib/rsbuild-plugin-vue-jsx): Provides support for Vue 3 JSX / TSX syntax.
 - [@rsbuild/plugin-vue2](https://github.com/rspack-contrib/rsbuild-plugin-vue2): Provides support for Vue 2 SFC (Single File Components).
 - [@rsbuild/plugin-vue2-jsx](https://github.com/rspack-contrib/rsbuild-plugin-vue2-jsx): Provides support for Vue 2 JSX / TSX syntax.
@@ -191,16 +196,16 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 #### For Preact
 
-- [@rsbuild/plugin-preact](https://rsbuild.dev/plugins/list/plugin-preact): Provides support for Preact.
+- [@rsbuild/plugin-preact](https://rsbuild.rs/plugins/list/plugin-preact): Provides support for Preact.
 
 #### For Svelte
 
-- [@rsbuild/plugin-svelte](https://rsbuild.dev/plugins/list/plugin-svelte): Provides support for Svelte components (`.svelte` files).
+- [@rsbuild/plugin-svelte](https://rsbuild.rs/plugins/list/plugin-svelte): Provides support for Svelte components (`.svelte` files).
 - [rsbuild-plugin-svelte-inspector](https://github.com/hunghg255/rsbuild-plugin-svelte-inspector): Allows automatic jumping to the local IDE when clicking on a browser element.
 
 #### For Solid
 
-- [@rsbuild/plugin-solid](https://rsbuild.dev/plugins/list/plugin-solid): Provides support for Solid.
+- [@rsbuild/plugin-solid](https://rsbuild.rs/plugins/list/plugin-solid): Provides support for Solid.
 
 #### For Lynx
 
@@ -210,7 +215,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 #### Common
 
 - [@rsbuild/plugin-assets-retry](https://github.com/rspack-contrib/rsbuild-plugin-assets-retry): Used to automatically resend requests when static assets fail to load.
-- [@rsbuild/plugin-babel](https://rsbuild.dev/plugins/list/plugin-babel): Provides support for Babel transpilation capabilities.
+- [@rsbuild/plugin-babel](https://rsbuild.rs/plugins/list/plugin-babel): Provides support for Babel transpilation capabilities.
 - [@rsbuild/plugin-basic-ssl](https://github.com/rspack-contrib/rsbuild-plugin-basic-ssl): Generate an untrusted, self-signed certificate for the HTTPS server.
 - [@rsbuild/plugin-eslint](https://github.com/rspack-contrib/rsbuild-plugin-eslint): Used to run ESLint checks during the compilation.
 - [@rsbuild/plugin-type-check](https://github.com/rspack-contrib/rsbuild-plugin-type-check): Used to run TypeScript type checker on a separate process.
@@ -218,7 +223,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rsbuild/plugin-mdx](https://github.com/rspack-contrib/rsbuild-plugin-mdx): Provide support for MDX.
 - [@rsbuild/plugin-node-polyfill](https://github.com/rspack-contrib/rsbuild-plugin-node-polyfill): Used to inject polyfills of Node core modules in the browser side.
 - [@rsbuild/plugin-source-build](https://github.com/rspack-contrib/rsbuild-plugin-source-build): This plugin is designed for the monorepo scenario. It supports referencing source code from other subdirectories and performs build and hot update.
-- [@rsbuild/plugin-stylus](https://rsbuild.dev/plugins/list/plugin-stylus): Use Stylus as the CSS preprocessor.
+- [@rsbuild/plugin-stylus](https://rsbuild.rs/plugins/list/plugin-stylus): Use Stylus as the CSS preprocessor.
 - [@rsbuild/plugin-check-syntax](https://github.com/rspack-contrib/rsbuild-plugin-check-syntax): Used to analyze the syntax compatibility of artifacts, to see if there are any advanced syntaxes that may cause compatibility issues.
 - [@rsbuild/plugin-css-minimizer](https://github.com/rspack-contrib/rsbuild-plugin-css-minimizer): Used to customize CSS minimizer, switch to [cssnano](https://cssnano.co/) or other tools for CSS compression.
 - [@rsbuild/plugin-typed-css-modules](https://github.com/rspack-contrib/rsbuild-plugin-typed-css-modules): Generate TypeScript declaration files for CSS Modules.
@@ -257,14 +262,14 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 ### Rspress Plugins
 
-- [@rspress/plugin-medium-zoom](https://rspress.dev/plugin/official-plugins/medium-zoom): [medium-zoom](https://github.com/francoischalifour/medium-zoom) plugin, used to zoom in images.
-- [@rspress/plugin-last-updated](https://rspress.dev/plugin/official-plugins/last-updated): Support for displaying the last update time of the article.
-- [@rspress/plugin-container-syntax](https://rspress.dev/plugin/official-plugins/container-syntax): Support container syntax in Markdown/MDX.
-- [@rspress/plugin-typedoc](https://rspress.dev/plugin/official-plugins/typedoc): Integrate [TypeDoc](https://github.com/TypeStrong/typedoc), used to generate API documentation of TS module automatically.
-- [@rspress/plugin-preview](https://rspress.dev/plugin/official-plugins/preview): Support preview of code blocks in Markdown/MDX.
-- [@rspress/plugin-playground](https://rspress.dev/plugin/official-plugins/playground): Provide a real-time playground to preview the code blocks in Markdown/MDX files.
-- [@rspress/plugin-shiki](https://rspress.dev/plugin/official-plugins/shiki): Integrates [Shiki](https://github.com/shikijs/shiki) for code syntax highlighting.
-- [@rspress/plugin-rss](https://rspress.dev/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed).
+- [@rspress/plugin-medium-zoom](https://rspress.rs/plugin/official-plugins/medium-zoom): [medium-zoom](https://github.com/francoischalifour/medium-zoom) plugin, used to zoom in images.
+- [@rspress/plugin-last-updated](https://rspress.rs/plugin/official-plugins/last-updated): Support for displaying the last update time of the article.
+- [@rspress/plugin-container-syntax](https://rspress.rs/plugin/official-plugins/container-syntax): Support container syntax in Markdown/MDX.
+- [@rspress/plugin-typedoc](https://rspress.rs/plugin/official-plugins/typedoc): Integrate [TypeDoc](https://github.com/TypeStrong/typedoc), used to generate API documentation of TS module automatically.
+- [@rspress/plugin-preview](https://rspress.rs/plugin/official-plugins/preview): Support preview of code blocks in Markdown/MDX.
+- [@rspress/plugin-playground](https://rspress.rs/plugin/official-plugins/playground): Provide a real-time playground to preview the code blocks in Markdown/MDX files.
+- [@rspress/plugin-shiki](https://rspress.rs/plugin/official-plugins/shiki): Integrates [Shiki](https://github.com/shikijs/shiki) for code syntax highlighting.
+- [@rspress/plugin-rss](https://rspress.rs/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed).
 - [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
 - [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
 - [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
@@ -307,7 +312,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 Blogs from the Rspack team:
 
-- [rspack.dev/blogs](https://rspack.dev/blog/)
+- [rspack.rs/blogs](https://rspack.rs/blog/)
 - [web-infra-dev/blogs](https://github.com/web-infra-dev/blogs)
 
 ### Community
