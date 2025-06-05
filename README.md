@@ -78,6 +78,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rsbuild Starter
 
+- [ding-dong](https://github.com/src-thk/ding-dong): A lightning-fast, modern React template supercharged with Rsbuild.
 - [react-tailwind-rsbuild-boilerplate](https://github.com/alonronin/react-tailwind-rsbuild-boilerplate): React + React Router + Tailwind CSS with Rsbuild boilerplate.
 - [TanStacked](https://github.com/mohmmedraad/TanStacked): React + Tanstack Router + Shadcn + Tailwind CSS v4 And Biome with Rsbuild boilerplate.
 - [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
