@@ -62,6 +62,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Esmx](https://github.com/esmnext/esmx): Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
 - [Angular Rspack](https://github.com/nrwl/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
 - [PrevelteKit](https://github.com/tbocek/preveltekit): A lightweight, high-performance web application framework built on Svelte 5, featuring Server-Side Pre Rendering (SSPR) using Rsbuild as the build tool.
+- [Kmi](https://github.com/kmijs/kmi): Based on Umi to provide Rspack support and other best practices
 
 ## Starter
 
