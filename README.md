@@ -7,10 +7,12 @@
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
+  - [Rstack](#rstack)
   - [Ecosystem](#ecosystem)
 - [Starter](#starter)
   - [Rspack Starter](#rspack-starter)
   - [Rsbuild Starter](#rsbuild-starter)
+  - [Rslib Starter](#rslib-starter)
 - [Plugins](#plugins)
   - [Rspack Plugins](#rspack-plugins)
   - [Rspack Loaders](#rspack-loaders)
