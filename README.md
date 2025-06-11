@@ -13,8 +13,10 @@
   - [Rsbuild Starter](#rsbuild-starter)
 - [Plugins](#plugins)
   - [Rspack Plugins](#rspack-plugins)
+  - [Rspack Loaders](#rspack-loaders)
   - [Rsbuild Plugins](#rsbuild-plugins)
   - [Rspress Plugins](#rspress-plugins)
+  - [Unplugin](#unplugin)
 - [Deployment](#deployment)
 - [Libraries](#libraries)
 - [Blogs](#blogs)
@@ -137,6 +139,8 @@ Rspack and Rsbuild support most of the webpack plugins, such as:
 - [@sentry/webpack-plugin](https://github.com/getsentry/sentry-javascript-bundler-plugins): Provides source map and release management support for Sentry.
 - [@serwist/webpack-plugin](https://github.com/serwist/serwist): generate a manifest of local files for progressive web apps.
 
+### Rspack Loaders
+
 Rspack and Rsbuild support most of the webpack loaders, such as:
 
 - [babel-loader](https://github.com/babel/babel-loader): Transpiling JavaScript files using Babel.
@@ -161,18 +165,6 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack): The webpack / Rspack loader for React Compiler.
 - [worker-rspack-loader](https://github.com/rspack-contrib/worker-rspack-loader): An Rspack loader that registers a script as a Web Worker.
 - [rsbuild-plugin-markdown-loader](https://github.com/aliezzahn/rsbuild-plugin-markdown-loader): Importing and rendering Markdown files as React components or pure HTML.
-
-Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
-
-- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components): On-demand components auto importing for Vue.
-- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import): Auto import APIs on-demand.
-- [unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Rspack.
-- [@arco-plugins/unplugin-react](https://www.npmjs.com/package/@arco-plugins/unplugin-react): A plugin to help you use Arco Design React.
-- [@tanstack/router-plugin](https://www.npmjs.com/package/@tanstack/router-plugin): Automatically generate configuration for TanStack Router.
-- [unplugin-build-info](https://github.com/renzp94/unplugin-build-info): Print the build information on the console.
-- [unplugin-vue-macros](https://github.com/vue-macros/vue-macros): Explore more macros and syntax sugar to Vue.
-- [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload): Inject `<link rel="preload">` to your index.html based on your build assets. Need to be used with HTMLWebpackPlugin or HTMLRspackPlugin.
-- [@intlify/unplugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n): unplugin for Vue I18n.
 
 ### Rsbuild Plugins
 
@@ -294,6 +286,20 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rspress-plugin-changelog](https://github.com/baranwang/rspress-plugin-changelog): Generates changelog pages, fetching release information from GitHub and GitLab repositories.
 - [rspress-plugin-annotation-words](https://github.com/2heal1/rspress-plugin-annotation-words): An Rspress plugin to support annotation words.
 - [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree): Use Figtree as the default font in your Rspress website.
+
+### Unplugin
+
+Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), such as:
+
+- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components): On-demand components auto importing for Vue.
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import): Auto import APIs on-demand.
+- [unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Rspack.
+- [@arco-plugins/unplugin-react](https://www.npmjs.com/package/@arco-plugins/unplugin-react): A plugin to help you use Arco Design React.
+- [@tanstack/router-plugin](https://www.npmjs.com/package/@tanstack/router-plugin): Automatically generate configuration for TanStack Router.
+- [unplugin-build-info](https://github.com/renzp94/unplugin-build-info): Print the build information on the console.
+- [unplugin-vue-macros](https://github.com/vue-macros/vue-macros): Explore more macros and syntax sugar to Vue.
+- [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload): Inject `<link rel="preload">` to your index.html based on your build assets. Need to be used with HTMLWebpackPlugin or HTMLRspackPlugin.
+- [@intlify/unplugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n): unplugin for Vue I18n.
 
 ## Deployment
 
