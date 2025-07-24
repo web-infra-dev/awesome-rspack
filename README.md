@@ -323,6 +323,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild.
 - [rspackify](https://github.com/SyMind/rspackify): Experience lightning-fast builds by instantly switching from webpack to Rspack.
 - [Spinpack](https://github.com/denniscual/spinpack): A CLI tool that turbocharges the developer server experience for CRA projects with Rspack.
+- [Jetpack](https://github.com/KidkArolis/jetpack): Jetpack wraps Rspack to create a smoother developer experience.
 
 ## Blogs
 
