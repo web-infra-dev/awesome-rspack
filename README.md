@@ -260,6 +260,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-css-optimizer](https://github.com/aliezzahn/rsbuild-plugin-css-optimizer): Customize CSS minification, allowing you to choose between cssnano (JavaScript-based) or Lightning CSS (Rust-based) for high-performance CSS compression.
 - [rsbuild-plugin-devtools-json](https://github.com/rspack-contrib/rsbuild-plugin-devtools-json): Generating `com.chrome.devtools.json` on the fly in the dev server.
 - [rsbuild-plugin-rempa](https://github.com/sumy7/rsbuild-plugin-rempa): A Rsbuild plugin designed to collect pages and generate a Multi-Page Application (MPA).
+- [rsbuild-plugin-iconify](https://github.com/pathscale/iconify-preload): A Rsbuild plugin that automatically generates optimized CSS with embedded SVG icons from Iconify.
 
 ### Rspress Plugins
 
