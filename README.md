@@ -261,6 +261,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-devtools-json](https://github.com/rspack-contrib/rsbuild-plugin-devtools-json): Generating `com.chrome.devtools.json` on the fly in the dev server.
 - [rsbuild-plugin-rempa](https://github.com/sumy7/rsbuild-plugin-rempa): A Rsbuild plugin designed to collect pages and generate a Multi-Page Application (MPA).
 - [rsbuild-plugin-iconify](https://github.com/pathscale/iconify-preload): A Rsbuild plugin that automatically generates optimized CSS with embedded SVG icons from Iconify.
+- [rsbuild-plugin-arethetypeswrong](https://github.com/colinaaa/rsbuild-plugin-arethetypeswrong): Checking TypeScript type definitions with `arethetypeswrong`.
 
 ### Rspress Plugins
 
