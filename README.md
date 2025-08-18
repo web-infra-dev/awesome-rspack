@@ -6,8 +6,8 @@
 <h1>Awesome Rstack</h1>
 
 - [Resources](#resources)
-  - [Official Resources](#official-resources)
   - [Rstack](#rstack)
+  - [Official Resources](#official-resources)
   - [Ecosystem](#ecosystem)
 - [Starter](#starter)
   - [Rspack Starter](#rspack-starter)
@@ -26,7 +26,7 @@
 
 ## Resources
 
-### Rstack 🦀
+### Rstack
 
 Rstack is a unified JavaScript toolchain built around Rspack, with high performance and consistent architecture.
 
