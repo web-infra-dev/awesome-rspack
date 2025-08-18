@@ -1,9 +1,9 @@
 <p align="center">
     <img width="300" src="./logo.png" alt="logo of rspack-awesome repository"><br>
-    A curated list of awesome things related to <a href='https://github.com/web-infra-dev/rspack'>Rspack</a> and its ecology
+    A curated list of awesome things related to the Rstack toolchain
 </p>
 
-<h1>Awesome Rspack</h1>
+<h1>Awesome Rstack</h1>
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -26,24 +26,22 @@
 
 ## Resources
 
-### Official Resources
-
-- [Rspack Doc](https://rspack.rs/)
-- [Rspack GitHub Repo](https://github.com/web-infra-dev/rspack)
-- [Rspack Release Notes](https://github.com/web-infra-dev/rspack/releases)
-- [Rspack Examples](https://github.com/rspack-contrib/rspack-examples): Examples for Rspack, Rsbuild, Rspress and Rsdoctor.
-- [Rsfamily Design Resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): Design resources for Rspack, Rsbuild, Rspress and Rsdoctor.
-
 ### Rstack
 
 Rstack is a unified JavaScript toolchain built around Rspack, with high performance and consistent architecture.
 
+- [Rspack](https://github.com/web-infra-dev/rspack): The fast Rust-based web bundler.
 - [Rsbuild](https://github.com/web-infra-dev/rsbuild): The Rspack-based build tool.
 - [Rspress](https://github.com/web-infra-dev/rspress): A fast Rsbuild-based static site generator.
 - [Rsdoctor](https://github.com/web-infra-dev/rsdoctor): A one-stop build analyzer for Rspack.
 - [Rslib](https://github.com/web-infra-dev/rslib): The library build tool powered by Rsbuild.
 - [Rstest](https://github.com/web-infra-dev/rstest): The testing framework powered by Rspack.
 - [Rslint](https://github.com/web-infra-dev/rslint): A high-performance JavaScript and TypeScript linter.
+
+### Official Resources
+
+- [rstack-examples](https://github.com/rspack-contrib/rspack-examples): Examples for Rstack.
+- [rstack-design-resources](https://github.com/rspack-contrib/rsfamily-desgin-resources): Design resources for Rstack.
 
 ### Ecosystem
 
@@ -102,7 +100,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 - [ts-lib-starter](https://github.com/ulivz/ts-lib-starter): A hassle-free TS library template, powered by Rslib.
 - [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
-- [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developint Web components with Rslib, featuring using stencil and useful both in React and Vue.
+- [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developing Web components with Rslib, featuring using stencil and useful both in React and Vue.
 
 ## Plugins
 
