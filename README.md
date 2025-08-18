@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/web-infra-dev-awesome-rstack-badge.png)](https://mseep.ai/app/web-infra-dev-awesome-rstack)
+
 <p align="center">
     <img width="300" src="./logo.png" alt="logo of rspack-awesome repository"><br>
     A curated list of awesome things related to the Rstack toolchain
