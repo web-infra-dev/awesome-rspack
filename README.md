@@ -381,6 +381,7 @@ Chinese blogs (中文):
 
 Japanese blogs (日本語):
 
+- [2025-08] [Rails アプリケーションのフロントエンドを webpack から Rspack に移行しました](https://tech.synchro-food.co.jp/entry/2025/08/18/180000)
 - [2025-04] [Rspack に移行したらフロントエンドのビルドがめっちゃ速くなりました](https://buildersbox.corp-sansan.com/entry/2025/04/14/110000)
 
 French blogs (Français):
